@@ -8,7 +8,7 @@ gem 'daemons', '1.1.9'
 gem 'thinking-sphinx', '~> 2.0.14',
   :git    => 'git://github.com/pat/thinking-sphinx.git',
   :branch => 'v2',
-  :ref    => 'cf7b571e06'
+  :ref    => '88f077db8e'
 gem 'ts-delayed-delta',
   :git    => 'git://github.com/pat/ts-delayed-delta.git',
   :branch => 'edge',

@@ -14,8 +14,8 @@ GIT
 
 GIT
   remote: git://github.com/pat/thinking-sphinx.git
-  revision: cf7b571e063e72854ee8b6c0e08c7666f044b9fb
-  ref: cf7b571e06
+  revision: 88f077db8e862e48f288806cb97bc571c6a7f8c3
+  ref: 88f077db8e
   branch: v2
   specs:
     thinking-sphinx (2.0.14)
