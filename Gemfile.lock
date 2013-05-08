@@ -14,15 +14,15 @@ GIT
 
 GIT
   remote: git://github.com/pat/thinking-sphinx.git
-  revision: 88f077db8e862e48f288806cb97bc571c6a7f8c3
-  ref: 88f077db8e
+  revision: fa8ef190faeca4c9547e00ccff1f49c76bf1af2b
+  ref: fa8ef190fa
   branch: v2
   specs:
     thinking-sphinx (2.0.14)
       activerecord (>= 3.0.3)
       builder (>= 2.1.2)
       innertube (~> 1.0.2)
-      riddle (>= 1.5.3)
+      riddle (>= 1.5.6)
 
 GIT
   remote: git://github.com/pat/ts-delayed-delta.git
@@ -134,7 +134,7 @@ GEM
       hashie (~> 1.2.0)
     rdoc (3.12.2)
       json (~> 1.4)
-    riddle (1.5.5)
+    riddle (1.5.6)
     ruby-hmac (0.4.0)
     sass (3.2.8)
     sass-rails (3.2.6)
@@ -169,6 +169,6 @@ DEPENDENCIES
   pg (= 0.15.1)
   rails (= 3.2.13)
   sass-rails (~> 3.2.3)
-  thinking-sphinx (~> 2.0.14)!
+  thinking-sphinx (~> 2.0)!
   ts-delayed-delta!
   uglifier (>= 1.0.3)

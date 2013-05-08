@@ -5,10 +5,10 @@ gem 'pg',    '0.15.1'
 
 gem 'delayed_job_active_record', '~> 0.4.4'
 gem 'daemons', '1.1.9'
-gem 'thinking-sphinx', '~> 2.0.14',
+gem 'thinking-sphinx', '~> 2.0',
   :git    => 'git://github.com/pat/thinking-sphinx.git',
   :branch => 'v2',
-  :ref    => '88f077db8e'
+  :ref    => 'fa8ef190fa'
 gem 'ts-delayed-delta',
   :git    => 'git://github.com/pat/ts-delayed-delta.git',
   :branch => 'edge',
